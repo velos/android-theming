@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="bulbasaurAccent">#00DD00</color>
+    <color name="bulbasaurPrimary">#2DE02D</color>
+    <color name="bulbasaurPrimaryDark">#00BE00</color>
+
+    <color name="charmanderAccent">#FF0000</color>
+    <color name="charmanderPrimary">#FF3939</color>
+    <color name="charmanderPrimaryDark">#C60000</color>
+
+    <color name="squirtleAccent">#0000FF</color>
+    <color name="squirtlePrimary">#1F1FFF</color>
+    <color name="squirtlePrimaryDark">#0000C0</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+</resources>

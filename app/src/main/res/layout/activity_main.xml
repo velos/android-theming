@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:showDividers="middle">
+
+    <LinearLayout
+        android:id="@+id/bulbasaur"
+        style="@style/ListItemContainer">
+
+        <TextView
+            android:text="@string/bulbasaur"
+            style="@style/ListItemTitle" />
+
+        <TextView
+            android:text="@string/grass"
+            style="@style/ListItemSubtitle" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/charmander"
+        style="@style/ListItemContainer">
+
+        <TextView
+            android:text="@string/charmander"
+            style="@style/ListItemTitle" />
+
+        <TextView
+            android:text="@string/fire"
+            style="@style/ListItemSubtitle" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/squirtle"
+        style="@style/ListItemContainer">
+
+        <TextView
+            android:text="@string/squirtle"
+            style="@style/ListItemTitle" />
+
+        <TextView
+            android:text="@string/water"
+            style="@style/ListItemSubtitle" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/theme"
+        style="@style/ListItemContainer">
+
+        <TextView
+            android:text="@string/theme"
+            style="@style/ListItemTitle" />
+
+        <TextView
+            android:id="@+id/themeSubtitle"
+            style="@style/ListItemSubtitle" />
+
+    </LinearLayout>
+
+</LinearLayout>

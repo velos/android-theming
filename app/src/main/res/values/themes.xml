@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+    </style>
+
+    <style name="BulbasaurAppTheme" parent="BaseTheme">
+        <item name="colorAccent">@color/bulbasaurAccent</item>
+        <item name="colorPrimary">@color/bulbasaurPrimary</item>
+        <item name="colorPrimaryDark">@color/bulbasaurPrimaryDark</item>
+    </style>
+
+    <style name="CharmanderAppTheme" parent="BaseTheme">
+        <item name="colorAccent">@color/charmanderAccent</item>
+        <item name="colorPrimary">@color/charmanderPrimary</item>
+        <item name="colorPrimaryDark">@color/charmanderPrimaryDark</item>
+    </style>
+
+    <style name="DefaultAppTheme" parent="BaseTheme">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="SquirtleAppTheme" parent="BaseTheme">
+        <item name="colorAccent">@color/squirtleAccent</item>
+        <item name="colorPrimary">@color/squirtlePrimary</item>
+        <item name="colorPrimaryDark">@color/squirtlePrimaryDark</item>
+    </style>
+
+</resources>

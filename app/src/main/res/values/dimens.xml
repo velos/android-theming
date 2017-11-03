@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_padding_half">8dp</dimen>
+    <dimen name="default_padding_quarter">4dp</dimen>
+    <dimen name="default_padding_double">32dp</dimen>
+    <dimen name="list_item_height">48dp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_larger">20sp</dimen>
+    <dimen name="text_size_largest">32sp</dimen>
+
+</resources>
